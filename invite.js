@@ -12,15 +12,15 @@ const events = {
   },
 
   sangeet: {
-    title: "Sangeet",
-    video: "assets/sangeet/video.mp4",
-    audio: "assets/sangeet/music.mp3",
-    poster: "assets/sangeet/bg.webp",
-    calendarTitle: "Nidhishree's Sangeet",
-    startDate: "2026-03-29T18:30:00+05:30",
-    venue: "Near Kadri Park, Vasanth Vihar, Mangaluru",
-    lat: "12.888451",
-    lng: "74.853508"
+    title: "Reception",
+    video: "assets/reception/video.mp4",
+    audio: "assets/reception/music.mp3",
+    poster: "assets/reception/bg.webp",
+    calendarTitle: "Gopi Chand & Nidhishree Wedding Reception",
+    startDate: "2026-04-06T19:00:00+05:30",
+    venue: "Sri Padmasaaliya Seva Sangha Kalyana Mandapam, Over Bridge, Near, Station Road, Perala, Chirala, Andhra Pradesh 523155",
+    lat: "15.831850",
+    lng: "80.357486"
   }
 };
 
