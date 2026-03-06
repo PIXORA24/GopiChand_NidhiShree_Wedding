@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Nidhishree & Gopi Chand Wedding Reception</title>
+
+<meta property="og:title" content="💍 Nidhishree & Gopi Chand Wedding Reception✨">
+<meta property="og:description" content="Join us for our Reception ceremony. Tap to view invitation 💛">
+<meta property="og:image" content="https://pixora24.github.io/GopiChand_NidhiShree_Wedding/assets/reception-preview.webp">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pixora24.github.io/GopiChand_NidhiShree_Wedding/reception_solo.html">
+
+</head>
+
+<body>
+<script>
+  window.location.href = "invite.html?event=reception";
+</script>
+</body>
+</html>
