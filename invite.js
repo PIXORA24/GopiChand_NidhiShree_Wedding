@@ -11,7 +11,7 @@ const events = {
     lng: "74.866511"
   },
 
-  sangeet: {
+  reception: {
     title: "Reception",
     video: "assets/reception/video.mp4",
     audio: "assets/reception/music.mp3",
